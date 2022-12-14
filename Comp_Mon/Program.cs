@@ -127,7 +127,14 @@ namespace Comp_Mon
             computerScreen.BrightnessDown(a);
         }
     }
-
+    class Vetka_3
+    {
+        public Vetka_3()
+        {
+            int vet_3;
+   
+        }
+    }
     internal class Program
     {
         static void Main(string[] args)
