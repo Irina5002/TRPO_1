@@ -128,6 +128,16 @@ namespace Comp_Mon
         }
     }
 
+    class Vetka_3
+    {
+        public Vetka_3()
+        {
+            int vet_3;
+   
+        }
+    }
+
+
     class Vetka
     {
         public Vetka()
@@ -145,6 +155,7 @@ namespace Comp_Mon
             //ббббббббббббббббббббббббббббббббб
         }
     }
+
 
     internal class Program
     {
